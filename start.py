@@ -4,8 +4,8 @@ from aiogram import (Bot, Dispatcher, executor, types)
 
 API_TOKEN = '8095047795:AAGVtxbrPZ9XLlESwNY5JDeIjuYKGLj0sko'
 
-LOGIN = ''
-PASSW = ''
+LOGIN = 'Murari'
+PASSW = 'Murari123@'
 
 bot = Bot(token=8095047795:AAGVtxbrPZ9XLlESwNY5JDeIjuYKGLj0sko)
 dp = Dispatcher(bot)
