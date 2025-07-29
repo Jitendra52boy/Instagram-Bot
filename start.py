@@ -7,7 +7,7 @@ API_TOKEN = '8095047795:AAGVtxbrPZ9XLlESwNY5JDeIjuYKGLj0sko'
 LOGIN = 'Murari'
 PASSW = 'Murari123@'
 
-bot = Bot(token=8095047795:AAGVtxbrPZ9XLlESwNY5JDeIjuYKGLj0sko)
+bot = Bot(token="8095047795:AAGVtxbrPZ9XLlESwNY5JDeIjuYKGLj0sko")
 dp = Dispatcher(bot)
 
 
