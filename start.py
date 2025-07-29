@@ -2,12 +2,12 @@ from InstagramAPI import InstagramAPI
 from aiogram import (Bot, Dispatcher, executor, types)
 
 
-API_TOKEN = ''
+API_TOKEN = '8095047795:AAGVtxbrPZ9XLlESwNY5JDeIjuYKGLj0sko'
 
 LOGIN = ''
 PASSW = ''
 
-bot = Bot(token=API_TOKEN)
+bot = Bot(token=8095047795:AAGVtxbrPZ9XLlESwNY5JDeIjuYKGLj0sko)
 dp = Dispatcher(bot)
 
 
